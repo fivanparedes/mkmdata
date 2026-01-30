@@ -1,0 +1,49 @@
+== BUFFS ==
+Regen: Causes the character to heal over time.
+Strengthen: Increases the damage of all attacks.
+Shield: Reduces all incoming damage.
+Luck: Increases the chance of a critical hit.
+Power: Generates additional power for special attacks. 
+Vampirism: each successful hit heals the character that is hitting.
+Speed: characters affected move and attack faster.
+Dispel: effect that removes all debuffs, except Stun.
+Sneak Attack: attack that is unavoidable and undodgable for some passives or equipment effects that lets other characters evade.
+Invulnerability: ignores any incoming damage, except for X-Rays/Fatal Blows.
+
+== DEBUFFS ==
+Damage Over Time: abbreviated as DOT, is any debuff that decreases character's health progressively.
+Bane: Bane is a Torment Effect. Characters afflicted receive damage over time. Damage dealt by Bane depends on the user's health. Torment is not a DOT Effect.
+Poison: Deals damage over time and prevents healing.
+Bleed: Deals damage over time.
+Blind: Characters affected may have their attacks miss.
+Burning: Deals damage over time and causes power loss.
+Curse: Characters affected take extra damage from all Critical Hits.
+Death Mark/Deathmark: Characters affected can't be resurrected and take extra damage from all attacks. Effects that save from death are still allowed.
+Stun: Temporarily prevents the character from attacking or defending. Stun cannot be removed by Dispel.
+Fear: Characters affected are forced to tag out.
+Fracture: Fracture is a Torment Effect. Characters affected receive Damage over time. Damage dealt by Fracture depends on the user's Attack. Torment is not a DOT effect.
+Freeze: Characters affected are immobilized and can't do anything until first incoming hit.
+Frostbite: Characters affected have their Speed decreased and slowly lose Power over time.
+Incurability: Incurability cancels opponent's healing effects. Any healing, including Recovery, is also restricted while Incurability is active.
+Oblivion: Oblivion affects opponent's Special Attacks. During the Oblivion, Special Attacks will not be able to apply any effects. Critical Hit chance for Special Attacks will be decreased to 0. The level of Special Attacks will be downgraded to level 1 which will make them deal only the base Special Attack damage.
+Weaken: Reduces the damage dealt by all attacks.
+Cripple: Prevents the use of special attacks 1 and 2, except X-Ray/Fatal Blow on Gold and Diamond characters and Special Attack 3 on silver characters.
+Snare: Prevents the character from being tagged out.
+Silence: disables Special Attack 1 and reduces power generation by 60%.
+Soaked: Characters affected are slowed and take more damage from Lightning attacks. When a character is affected by Soaked, each instance of Lightning attack will hit their teammates affected by Soaked (including those tagged out).
+
+Despair: Characters affected lose all positive effects.
+Power Drain: Characters affected are drained of some of their Power.
+Shield Break: Shield is instantly removed when applied, and affected characters take extra damage from all attacks.
+Slow: Characters affected will have their movement slowed considerably.
+
+== CHARACTER STATS ==
+Attack: Attack represents the damage a Character or Kameo does to an opponent.
+Health: Health is the amount of damage a Character can take during combat.
+Power generation: Power generation represents the amount of power a fighter generates. Power is used to perform Special Attacks in combat.
+Recovery: Recovery represents the amount of health a Character recovers over time.
+Toughness: Toughness impacts how much a Character is damaged when taking a hit in combat.
+
+== COMBAT ==
+Critical Hit: a critical hit is a strong hit that causes 50% more damage to the max health of the character.
+Lethal Hit: is a hit that does +200% normal damage.

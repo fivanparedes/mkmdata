@@ -1,0 +1,28 @@
+Each team is composed by 3 characters, and each fight is a 3 vs 3.
+When you assemble the team, the fighter at the left is called "starter" and it's the one that first appears in the fight. Same with enemy team.
+Tag-in: action where you call another character to enter the fight. The previous character leaves the battle.
+Note that tag-in mechanics don't apply at the start of the battle since nobody is tagging in.
+Tag-out: action where the character leaves the battle field, due to another character being tagged-in.
+Each character has three special moves
+Special Attack 1 medium damage. 1 power bar
+Special Attack 2 high damage. 2 power bar
+Special Attack 3 very high damage. Silver rarity only. 3 power bar
+X-Ray/Fatal Blow extreme damage. Unblockable. Gold and diamond only. 3 power bar
+Bronze characters have only Special Attacks 1 and 2.
+Each character has 3 slots for equipment pieces: weapon, armor and accessory.
+Diamond characters have 4 slots. The 4th slot can be either weapon, armor or accessory.
+Bronze characters are the weakest of all the game.
+Silver characters are the second weakest.
+Gold characters are better than Silver.
+Challenge golds and exclusive golds are better than normal golds.
+Diamond characters are about 25% stronger than Gold characters in most cases.
+Diamond characters can perform Brutalities and Friendships, which are special finalizers that nullify any resurrection effects of the opponents. That effect is described by equipment pieces that have {{Brutality}} or {{Friendship}} strings in their description.
+The tier of characters/equipment is ranked in the following order:
+D - Completely useless
+C - Not that bad
+B - Can be useful
+A - Good
+S - Really Good
+S+ - Exceptionally Good/Game changer.
+There are equipment pieces with effects exclusive to some game modes: if the description of a piece says, for example, '15-80% Damage boost. Kold Tower only.', it means that the sentence which comes before (not the whole description) only applies to said Kold Tower. Same with equipment with sentences ending with 'Faction Wars only', that effect only applies if the character is in Faction Wars/Realm Klash mode.
+There are equipment pieces with effects exclusive to characters. For example: '[SHAO KAHN] 1 Bar of starting Power.' means that all sentences after the name of the character describe an effect that only applies to all characters with the same name.

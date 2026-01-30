@@ -1,0 +1,84 @@
+name	rarity	type	effect	max_fusion_effect	tier
+Amulet	Common	Accessory	20-30% RESISTANCE to slow and stun		D
+Bracers	Common	Armor	10-20% TOUGHNESS boost		D
+Brawler Gloves	Common	Accessory	15-25% BASIC DAMAGE boost		D
+Healing Herbs	Common	Accessory	10-20% RECOVERY boost		D
+Hood	Common	Armor	10-20% TOUGHNESS boost		D
+Medallion	Common	Accessory	20-30% RESISTANCE to poison and bleeding		D
+Riot Gear	Common	Armor	5-15% MAX HEALTH boost		D
+Robes	Common	Armor	5-15% MAX HEALTH boost		D
+Shuriken	Common	Weapon	15-25% Basic attacks UNBLOCKABLE chance		C
+Sword	Common	Weapon	10-20% CRIT CHANCE boost		D
+Blood Stone Ring	Uncommon	Accessory	30-50% Resistance to Posion and Bleed.	30% Recovery Boost	C
+Combat Shotgun	Uncommon	Weapon	15-35% Damage Boost against Martial Artist characters.	30% Damage boost against enemies affected by Stun or Slow.	C
+Draconic Shield	Uncommon	Armor	10-20% Max health boost.	25% chance to reflect 25% basic attack damage when blocking.	C
+Elemental Stones	Uncommon	Accessory	30-50% resistance to Slow and Stun.	30% Opponent critial hit chance reduction.	C
+Executioner Axe	Uncommon	Weapon	15-35% damage boost against Spec Ops characters.	30% basic attack damage boost	C
+Gladiator Mask	Uncommon	Armor	20-30% toughness boost.	50% resistance to Slow and Stun	C
+Katana	Uncommon	Weapon	15-35% damage boost against Outworld characters	15% critical hit chance boost	C
+Outworld Gear	Uncommon	Armor	10-20% max health boost	50% Resistance to Poison and Bleed	C
+Soul Elixir	Uncommon	Accessory	20-30% Recovery boost	15% reduced power cost on all Special Attacks	C
+Bladed Fans	Rare	Weapon	25-45% basic attacks unblockable chance. [KITANA] 15-25% chance to reflect 100% Special Attack damage when blocking.	25% chance to convert 50% damage to health on Special Attack.	A
+Bladed Hat	Rare	Armor	25-45% toughness boost. [KUNG LAO] 20-40% Special Attack 1 damage boost.	25% chance to reflect 100% basic attack damage when blocking.	B
+Bladed Whips	Rare	Weapon	5-15% X-Ray/Fatal Blow attack damage boost. [TAKEDA] 5-15% damage boost	25% chance to apply Bleed to the active enemy at the start of the match.	B
+Bo' Rai Cho's Flask	Rare	Weapon	15-25% critical hit chance boost. [BO' RAI CHO] 15% damage boost.	25% chance to apply Cripple to the active enemy at the start of the match.	B
+Body Armor	Rare	Armor	25-45% toughness boost. [CASSIE CAGE] 30-50% resistance to all debuffs.	50% opponent critical hit chance reduction.	A
+Bojutsu Staff	Rare	Weapon	15-25% critical hit chance boost. [JADE] Every missed attack boosts Jade's attack power by 10-60%.	25% damage boost against enemies affected by Bleed or Poison.	B
+Bound Demon	Rare	Accessory	10-20% Power generation boost. [QUAN CHI] 15-25% reduced Power cost on all Special Attacks.	25% chance to transfer 50% damage to health on Special Attack 2.	B
+Celestial Blow	Rare	Accessory	15-25% Critical Hit chance boost. [FUJIN] 25-35% basic attacks unblockable chance.	20% Power generation boost.	B
+Combat Knife	Rare	Weapon	30-50% basic attack damage boost. [KANO] 10-20% Special Attack 3 or X-Ray/Fatal Blow attack damage boost.	15% damage boost. Realm Klash only.	B
+Continuum Clock	Rare	Accessory	15-35% Basic Attacks Unblockable chance. [GERAS] 20-30% chance to reflect any debuff back to an opponent. Team debuffs are not affected.	20% Power generation boost.	A
+Cyber Armor	Rare	Armor	15-35% self heal at the end of Special Attack 3 or X-Ray/Fatal Blow attack. [TRIBORG] 30-50% resistance to all debuffs.	25% basic attack damage bosot.	B
+Cybernetic Arms	Rare	Armor	25-45% toughness boost. [JAX] 20-30% chance to reflect 100% Special Attack damage when blocking.	25% chance to reflect 100% basic attack damage when blocking.	B
+Dragon Fangs	Rare	Accessory	5-15% X-Ray/Fatal Blow attack damage boost. [GORO] 5-15% damage boost.	25% chance to apply Bleed to the active enemy at the start of the match.	B
+Earth Elemental Facemask	Rare	Armor	20-30% Resistance to all debuffs. [TREMOR] 10-20% chance to convert 50% damage to health on Special Attack 1.	20% Power generation boost.	A
+Femme Fatale Comb	Rare	Accessory	15-35% Max health boost. [SINDEL] 1 additional counter-attack for Sindel. Second additional counter-attack unlocks at Fusion X.	25% chance to convert 50% damage to health on Special Attack 1.	B
+Freddy's Glove	Rare	Weapon	15-35% Critical Hit chance boost. [FREDDY KRUEGER] 20-100% chance to enter a 2nd opponent into a Nightmare.	20% Damage boost. Realm Klash only.	B
+Frozen Touch	Rare	Accessory	25%-35% Basic attacks unblockable chance [FROST] Frost gains Shield while the active opponent is affected by Frostbite. Combo Enders increase the duration of Frostbite on the opponent by 1 second.	25% Critical Hit chance boost.	A
+Grim Essence	Rare	Accessory	10-20% Power generation boost. [NOOB SAIBOT] Death Mark lasts 5-10s longer.	50% Critical Hit chance boost against enemies affected by Bleed.	B
+Hockey Mask	Rare	Armor	15-35% Max health boost. [JASON VOORHEES] 30-50% Resistance to all debuffs.	25% chance to reflect 100% basic attack damage when blocking.	B
+Ice Daggers	Rare	Weapon	30-50% basic attack damage boost. [SUB-ZERO] 30-50% chance to convert 50% damage to health on Special Attack 2.	50% Critical Hit chance boost against enemies affected by Freeze.	B
+K7-Leetha	Rare	Armor	40-60% toughness boost. [SPAWN] Heal the weakest teammate for 20-40% of damage dealt on Special Attack 2.	25% Power generation boost.	B
+Killer Wasp	Rare	Accessory	25-45% Recovery boost. [D'VORAH] 20-30% Special Attack 1 and 2 unblockable chance.	25% damage boost against enemies affected by Bleed or Poison.	B
+Kintaro's Tiger's Eye	Rare	Weapon	30-50% basic attack damage boost. [KINTARO] 10-20% chance to apply Bleed DOT on basic attacks that does 11.5% damage.	25% damage boost against enemies affected by Bleed or Poison.	B
+Kobu Jutsu Blades	Rare	Weapon	30-50% Basic attack damage boost. [TANYA] 20-30% Special Attack 1 and 2 unblockable chance.	25% chance to convert 50% damage to health on Special Attack 1.	B
+Military Vest	Rare	Armor	15-35% Max health boost. [SONYA BLADE] 10-20% self heal at the end of Special Attack 3 or X-Ray/Fatal Blow attack.	50% opponent critical hit chance reduction.	B
+Ninja Yoroi	Rare	Armor	15-35% Max health boost. [SMOKE] 30-50% Resistance to all debuffs.	35% damage boost against enemies affected by Blind.	B
+Power Glove	Rare	Armor	15-35% Max health boost. [JACQUI BRIGGS] 25-35% Basic attack damage boost.	25% chance to reflect 100% basic attack damage when blocking.	B
+Prankster's Banger	Rare	Weapon	25-45% Basic attacks Unblockable chance. [THE JOKER] 30-50% chance to apply Snare on Special Attack 2.	50% reduced Power cost on Special Attack 2.	A
+Razor Sai	Rare	Weapon	15-25% Critical Hit chance boost. [MILEENA] 30-50% chance to convert 50% damage to health on Special Attack 2.	25% damage boost against enemies affected by Bleed or Poison.	B
+Red Headband	Rare	Accessory	25-45% Recovery boost. [LIU KANG] 25-35% Basic attack unblockable chance.	20% Power generation boost.	B
+Respirator	Rare	Armor	Critical damage received is reduced by 25-50%. [KABAL] 10-30% health Regen over 5-15s after X-Ray/Fatal Blow attacks.	Lethal Blow damage received reduced by 75%.	B
+Revolvers	Rare	Weapon	25-45% Basic attacks Unblockable chance. [ERRON BLACK] 10-20% Special Attack 1 and 2 damage boost.	25% critical hit chance boost.	B
+Rusty Chainsaw	Rare	Weapon	25-45% Basic attacks Unblockable chance. [LEATHERFACE] Enrage duration increased by 1-5s.	50% reduced Power cost on Special Attack 2.	A
+Sacrificial Knife	Rare	Weapon	30-50% basic attack damage boost. [KOTAL KAHN] 30-50% chance to drain 33% Power on Special Attack 2.	25% damage boost against enemies affected by Bleed or Poison.	B
+Saurian Armor	Rare	Armor	15-35% Max health boost. [REPTILE] 10-20% self heal at the end of Special Attack 3 or X-Ray/Fatal Blow attack.	50% Recovery boost.	B
+Sento Blade	Rare	Weapon	25-45% Basic attacks Unblockable chance. [KENSHI] 10-20% Special Attack 3 or X-Ray/Fatal Blow attack damage boost.	15% Damage boost. Realm Klash only.	B
+Shao Kahn's Helmet	Rare	Armor	5-40% Critical Hit chance boost. [SHAO KAHN] 1 Bar of starting Power. [SHAO KAHN] If this is equipped alongside Wrath Hammer, Shao Kahn gains an additional 4th bar of Power!	35% Max health boost.	A
+Shaolin Bow	Rare	Weapon	15-25% Critical hit Chance boost. [KUNG JIN] 30-50% chance to drain 33% Power on Special Attack 2.	25% damage boost against enemies affected by Bleed or Poison.	B
+Shinnok's Amulet	Rare	Accessory	25-45% Recovery boost. [SHINNOK] 10-20% Power generation boost.	25% chance to convert 50% damage to health on Special Attack 2.	B
+Shirai Ryu Kunai	Rare	Weapon	15-25% Critical Hit chance boost. [SCORPION] 20-30% Special Attack 1 and 2 unblockable chance.	50% damage boost against enemies affected by Stun or Slow.	B
+Soulsnake Arms	Rare	Accessory	5-15% X-Ray/Fatal Blow attack damage boost. [SHANG TSUNG] Transfer 5-25% damage to Health on all attacks against enemies affected by Weaken, Bleed or Fire.	Gain invincibility for 3s after the user performs X-Ray/Fatal Blow attack.	B
+Soul Medallion	Rare	Accessory	10-20% Power generation boost. [ERMAC] 10-20% Self heal at the end of Special Attack 3 or X-Ray/Fatal Blow attack.	50% reduced Power cost on Special Attack 2.	B
+Storm Hat	Rare	Armor	25-45% toughness boost. [RAIDEN] 10-20% X-Ray/Fatal Blow attack damage boost.	20% Power generation boost.	B
+Subtle Tattoo	Rare	Accessory	25-45% Recovery boost. [JOHNNY CAGE] 40-60% basic attack damage boost.	50% reduced Power cost on Special Attack 2.	B
+Super Suit	Rare	Armor	20-30% Resistance to all debuffs. [HOMELANDER] 15-35% chance to apply Strengthen on combo ender for 7sec.	Gain Sneak Attacks for 15sec after tag-in.	B
+T-800 Endoskeleton Arm	Rare	Accessory	15-35% Max health boost. [TERMINATOR] 40-60% Basic attack damage boost.	50% reduced Power cost on Special Attack 2.	B
+Tarkatan Gi	Rare	Armor	25-45% Recovery boost. [BARAKA] 20-30% chance to apply Bleed to the active enemy at the start of the match.	25% chance to convert 50% damage to health on Special Attack 1.	B
+Thunderblade	Rare	Weapon	30-50% basic attack damage boost. [RAIN] 10-30% damage boost against enemies affected by Bleed, Fire or Poison.	50% reduced Power cost on Special Attack 2.	B
+Tribal Headband	Rare	Accessory	25-35% Basic attacks Unblockable chance. [NIGHTWOLF] 10-30% chance to apply Snare on block breaker.	Slow, Snare, Shield Break and Cripple last 30% longer.	B
+Vial of Infinite Blood	Rare	Accessory	25-35% Basic attacks Unblockable chance. [SKARLET] Skarlet is healed when Bleed effects for 50-100% of Bleed damage.	50% chance to apply Bleed on combo ender.	B
+Who's There?	Rare	Armor	15-35% Max health boost. [GHOSTFACE] 30-50% opponent critical hit chance reduction.	All opponent team's characters need to collect 20% more Power to fill up each Power bar.	B
+Wrath Hammer	Epic	Weapon	1 Bar of starting Power. 10-20% Attack Boost. [SHAO KAHN] If this is equipped alongside Shao Khan's Helmet, Shao Kahn gains an additional 4th bar of Power!	30% Critical Hit Chance Boost.	S+
+Bloody Tomahawk	Epic	Weapon	20-40% Chance to drain 33% Power on Special Attack 2. 5-15% Damage boost. Faction Wars Only.	1 Bar of starting Power.	A
+Bloody Shokan Armor	Epic	Armor	10-20% Chance to reflect 100% Special Attack damage when blocking. 5-10% Damage boost. Faction Wars Only.	75% Opponent Critical Hit Chance reduction.	A
+Bloody Voodoo Doll	Epic	Accessory	10-15% Reduced Power cost on all Special Attacks. 5-10% Damage boost. Faction Wars Only.	25% Power generation boost.	A
+Datusha, Bane of the Moroi	Epic	Weapon	100-300% Damage boost against Resurrected Enemies. 5-15% Damage boost. Faction Wars Only.	25% Special Attack 1 and 2 damage boost.	A
+Devastator	Epic	Weapon	30-80% Chance to steal 50% of the enemy's Power at the start of the match. 10-50% Special Attack 1 damage boost.	If the opposing team shares the same class, receive 20% Health and 20% Damage boost, as well as a bar of Power.	A
+Blaze's Life Force	Epic	Accessory	50-100% Chance to apply Fire to the active enemy at the start of the match. 5-25% Fire Damage boost.	100% Chance to apply Power Drain to the active enemy at the start of the match.	A
+Moloch's Ball and Chain	Epic	Weapon	5-10% Lethal Blow chance: +300% damage. Faction Wars Only. 10-30% Unblockable chance on all Special Attacks. 100% Reduced Power cost on Special Attack 2 (5-15% Effect chance).		A
+Drahmin's Mask	Epic	Armor	Take 5-20% less basic attack damage. 10-30% Opponent Critical Hit Chance reduction. 10-30% Resistance to Lethal Blow. Faction Wars Only.	15% Faction Battle Rating boost.	S
+Sindel's Signet Ring	Epic	Accessory	30-40% Opponent Critical Hit Chance reduction. 30-50% Resistance to Bleed and Poison. 30-50% Resistance to Slow and Stun.	While tagged-in, the wearer copies buffs (Strenthen, Shield, Luck, Regen or Speed) from non-boss opponents.	A
+Shadow Sash	Epic	Armor	Take 10-20% less Special Attacks and X-Ray/Fatal Blow attack damage. 20-40% Unblockable attack chance reduction.	100% Chance to Apply Blind on enemy team at the Start of the match.	A
+Shang Tsung's Stone	Epic	Accessory	10-15% Reduced Power cost on all Special Attacks. 20-30% Recovery Boost.	When the wearer defeats a Character, the entire opponent team loses 30% of their current health. Faction Wars Only.	A
+Caro's Guidance	Epic	Accessory	5-10% Increased Quest loot boost. 5-10% Shorter Quest duration.	30% Max Health boost.	S
