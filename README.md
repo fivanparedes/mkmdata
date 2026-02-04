@@ -1,51 +1,35 @@
-# MK Mobile Game Data
+# Data Files
 
-TSV and TXT files for the RAG system.
+TSV files for characters and equipment. TXT files for glossary and gameplay rules.
 
 ## Files
 
-| File | Description | Count |
-|------|-------------|-------|
-| `characters.tsv` | Character info (name, class, rarity, tier, synergy) | 185 |
-| `abilities.tsv` | Special attacks (SP1, SP2, SP3, X-Ray) | 185 |
-| `passives.tsv` | Passive abilities | 185 |
-| `equipment_basic.tsv` | Basic equipment | 84 |
-| `equipment_krypt.tsv` | Krypt equipment | 42 |
-| `equipment_towers.tsv` | Tower equipment | 143 |
-| `glossary.txt` | Game terminology | ~50 terms |
-| `gameplay.txt` | Game mechanics | ~11 sections |
+| File | Columns | Count |
+|------|---------|-------|
+| `characters.tsv` | name, class, rarity, tier, synergy | 185 |
+| `passives.tsv` | character, description | 185 |
+| `abilities.tsv` | character, sp1, sp2, sp3, xray | 185 |
+| `equipment_basic.tsv` | name, rarity, type, tier, effect, max_fusion_effect | 84 |
+| `equipment_krypt.tsv` | name, rarity, type, tier, effect, max_fusion_effect | 42 |
+| `equipment_towers.tsv` | name, rarity, type, tier, effect, max_fusion_effect | 143 |
+| `glossary.txt` | Buffs, debuffs, stats definitions | ~50 |
+| `gameplay.txt` | Game mechanics and rules | - |
 
-## Adding Data
+## Tier System
 
-### Character
-1. Add to `characters.tsv`:
-   ```tsv
-   name	class	rarity	tier	synergy
-   New Character	Martial Artist	Diamond	S	Fire damage
-   ```
-
-2. Add to `abilities.tsv`:
-   ```tsv
-   character	sp1	sp2	sp3	xray
-   New Character	Fire Punch	Fire Combo		Fatal Blow
-   ```
-
-3. Add to `passives.tsv`:
-   ```tsv
-   character	description
-   New Character	Gains 20% attack on fire attack.
-   ```
-
-### Equipment
-Add to `equipment_basic.tsv` (or appropriate file):
-```tsv
-name	rarity	type	effect	max_fusion_effect	tier
-New Weapon	Epic	Weapon	+20% attack	+50% attack	A
-```
+Characters and equipment are ranked:
+- **S+** - Exceptionally good / game changer
+- **S** - Really good
+- **A** - Good
+- **B** - Can be useful
+- **C** - Not that bad
+- **D** - Completely useless
 
 ## Cache
 
-The `.rag_cache/` folder contains indexed embeddings. Delete it to rebuild:
+RAG embeddings are cached in `.rag_cache/`. Delete to rebuild:
+
 ```bash
-rm -rf data/.rag_cache
+Remove-Item -Recurse -Force .rag_cache  # Windows
+rm -rf .rag_cache                        # Linux/Mac
 ```
